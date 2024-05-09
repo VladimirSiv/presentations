@@ -1,0 +1,12 @@
+# Build
+*.aux
+*.out
+*.log
+*.gz
+*.pygtex
+*.pygstyle
+*.nav
+*.snm
+*.toc
+*.vrb
+
